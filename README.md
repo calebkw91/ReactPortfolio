@@ -1,7 +1,7 @@
-# EmployeeDirectory
+# ReactPortfolio
 
 ## Description
-This app was created with React.js, and demonstrates simple sorting and filtering of a list of employees.
+This app was created with React.js, and can be used to view past projects I have worked on.
 
 ## Table of Contents
 
