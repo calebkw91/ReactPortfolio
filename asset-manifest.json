@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ReactPortfolio/static/css/main.4ebe7ebf.chunk.css",
+    "main.js": "/ReactPortfolio/static/js/main.30d0d01c.chunk.js",
+    "main.js.map": "/ReactPortfolio/static/js/main.30d0d01c.chunk.js.map",
+    "runtime-main.js": "/ReactPortfolio/static/js/runtime-main.94f193b7.js",
+    "runtime-main.js.map": "/ReactPortfolio/static/js/runtime-main.94f193b7.js.map",
+    "static/css/2.150d169a.chunk.css": "/ReactPortfolio/static/css/2.150d169a.chunk.css",
+    "static/js/2.8966f6d4.chunk.js": "/ReactPortfolio/static/js/2.8966f6d4.chunk.js",
+    "static/js/2.8966f6d4.chunk.js.map": "/ReactPortfolio/static/js/2.8966f6d4.chunk.js.map",
+    "index.html": "/ReactPortfolio/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/ReactPortfolio/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.4ebe7ebf.chunk.css.map": "/ReactPortfolio/static/css/main.4ebe7ebf.chunk.css.map",
+    "static/js/2.8966f6d4.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.8966f6d4.chunk.js.LICENSE.txt",
+    "static/media/bookitlist.d042feeb.png": "/ReactPortfolio/static/media/bookitlist.d042feeb.png",
+    "static/media/decisiveKitchen.1232c556.png": "/ReactPortfolio/static/media/decisiveKitchen.1232c556.png",
+    "static/media/employeedirectory.41921807.png": "/ReactPortfolio/static/media/employeedirectory.41921807.png",
+    "static/media/profile.d53425b6.jpeg": "/ReactPortfolio/static/media/profile.d53425b6.jpeg",
+    "static/media/weatherSearch.1e63118b.png": "/ReactPortfolio/static/media/weatherSearch.1e63118b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94f193b7.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.8966f6d4.chunk.js",
+    "static/css/main.4ebe7ebf.chunk.css",
+    "static/js/main.30d0d01c.chunk.js"
+  ]
+}
