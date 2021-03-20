@@ -6,16 +6,16 @@ import Projects from "./pages/Projects";
 import Contact from "./pages/Contact";
 
 function App() {
-  return (
-    <Router>
-      <div>
-        <NavTabs />
-        <Route exact path="/" component={Home} />
-        <Route exact path="/projects" component={Projects} />
-        <Route path="/contact" component={Contact} />
-      </div>
-    </Router>
-  );
+    return (
+        <Router>
+            <div>
+                <NavTabs />
+                <Route exact path="/" component={Home} />
+                <Route exact path="/projects" component={Projects} />
+                <Route path="/contact" component={Contact} />
+            </div>
+        </Router>
+    );
 }
 
 export default App;

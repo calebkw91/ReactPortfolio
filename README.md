@@ -11,7 +11,7 @@ This app was created with React.js, and can be used to view past projects I have
 
 ## Screenshot
 <a name="screenshot"></a>
-![screenshot](public/images/homepage_screenshot.png "Homepage Screenshot")
+![screenshot](public/src/images/homepage_screenshot.png "Homepage Screenshot")
 
 ## How to Use
 <a name="How To"></a>

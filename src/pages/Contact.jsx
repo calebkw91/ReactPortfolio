@@ -1,22 +1,26 @@
 import React from "react";
 
 function Contact(props) {
-  return (
-    <div>
-      <h1>Contact Page</h1>
-      <p>
-        Integer cursus bibendum sem non pretium. Vestibulum in aliquet sem, quis molestie urna.
-        Aliquam semper ultrices varius. Aliquam faucibus sit amet magna a ultrices. Aenean
-        pellentesque placerat lacus imperdiet efficitur. In felis nisl, luctus non ante euismod,
-        tincidunt bibendum mi. In a molestie nisl, eu sodales diam. Nam tincidunt lacus quis magna
-        posuere, eget tristique dui dapibus. Maecenas fermentum elementum faucibus. Quisque nec
-        metus vestibulum, egestas massa eu, sollicitudin ipsum. Nulla facilisi. Sed ut erat ligula.
-        Nam tincidunt nunc in nibh dictum ullamcorper. Class aptent taciti sociosqu ad litora
-        torquent per conubia nostra, per inceptos himenaeos. Etiam ornare rutrum felis at rhoncus.
-        Etiam vel condimentum magna, quis tempor nulla.
-      </p>
-    </div>
-  );
+    return (
+        <div className="container">
+            <h3>Contact Me</h3>
+            <p>You can view my resume <a href="https://drive.google.com/file/d/1-pqWAeKlnh5fG5jz7dFWHg8-o-Db6P86/view?usp=sharing" target="_blank" rel="noreferrer">here, </a>or leave me a message with the form below.</p>
+            <form method="post" action="https://getform.io/f/8055ab6e-b5a9-4e24-8885-515ba98cbc6f">
+                <div className="row gtr-uniform">
+                    <div className="col-6 col-12-xsmall"><input type="text" name="name" id="name" placeholder="Name" /></div>
+                    <div className="col-6 col-12-xsmall"><input type="email" name="email" id="email" placeholder="Email" /></div>
+                    <div className="col-12"><input type="text" name="subject" id="subject" placeholder="Subject" /></div>
+                    <div className="col-12"><textarea name="message" id="message" placeholder="Message" rows="6"></textarea></div>
+                    <div className="col-12">
+                        <ul className="actions">
+                            <li><input type="submit" className="primary" value="Send Message" /></li>
+                            <li><input type="reset" value="Reset Form" /></li>
+                        </ul>
+                    </div>
+                </div>
+            </form>
+        </div>
+    );
 }
 
 export default Contact;
