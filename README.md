@@ -15,7 +15,7 @@ This app was created with React.js, and can be used to view past projects I have
 
 ## How to Use
 <a name="How To"></a>
-To use, simply navigate to the site! [Link](https://calebkw91.github.io/EmployeeDirectory-ReactApp/)
+To use, simply navigate to the site! [Link](https://calebkw91.github.io/ReactPortfolio/)
 
 ## Questions
 <a name="questions"></a>
